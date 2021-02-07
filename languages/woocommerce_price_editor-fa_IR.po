@@ -1,0 +1,76 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: woocommerce_price_editor\n"
+"POT-Creation-Date: 2021-01-29 20:47+0330\n"
+"PO-Revision-Date: 2021-01-29 20:47+0330\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fa\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.2\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n==0 || n==1);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: woocommerce_price_editor.php:113
+msgid "ADMINMENU_NAME"
+msgstr "مدیریت محصولات"
+
+#: woocommerce_price_editor.php:121
+msgid "ADMINPAGETITLE_NAME"
+msgstr "مدیریت گروهی محصولات"
+
+#: woocommerce_price_editor.php:124
+msgid "SELECT_CATEGOTY"
+msgstr "انتخاب دسته بندی:"
+
+#: woocommerce_price_editor.php:148
+msgid "PERPAGE_LABEL"
+msgstr "تعداد قابل نمایش"
+
+#: woocommerce_price_editor.php:156
+msgid "APLLY_FILTERS"
+msgstr "اعمال فیلتر"
+
+#: woocommerce_price_editor.php:203
+msgid "CURRENT_CATEGORY"
+msgstr "دسته بندی در حال نمایش"
+
+#: woocommerce_price_editor.php:203
+msgid "ALL"
+msgstr "همه"
+
+#: woocommerce_price_editor.php:208
+msgid "ROW_NUM"
+msgstr "ردیف"
+
+#: woocommerce_price_editor.php:209
+msgid "IMAGE_FILD"
+msgstr "تصویر"
+
+#: woocommerce_price_editor.php:210
+msgid "PRODUCT_NAME"
+msgstr "نام کالا"
+
+#: woocommerce_price_editor.php:211
+msgid "SELL_PRICE"
+msgstr "قیمت فروش"
+
+#: woocommerce_price_editor.php:212
+msgid "RE_PRICE"
+msgstr "قیمت بدون تخفیف"
+
+#: woocommerce_price_editor.php:232
+msgid "DELETE_BTN"
+msgstr "حذف"
+
+#: woocommerce_price_editor.php:262
+msgid "Page"
+msgstr "صفحه"
+
+#: woocommerce_price_editor.php:267
+msgid "SAVE_FORM"
+msgstr "ذخیره"
